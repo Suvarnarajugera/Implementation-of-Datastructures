@@ -57,3 +57,7 @@ int main(){
     pop(qu);
     print(qu);
 }
+
+
+--> insertion O(1)
+--> deletion O(1)
